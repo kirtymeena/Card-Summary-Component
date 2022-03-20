@@ -167,10 +167,10 @@ button:hover{
 
 @media only screen and (max-width:412px){
     .container{
-        
+        background-color:  hsl(224, 67%, 80%);
         background-image: url("./images/pattern-background-mobile.svg");
         background-repeat: no-repeat;
-        background-size: 30rem;
+        background-size: 29rem;
 
 }
 }
