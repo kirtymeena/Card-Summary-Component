@@ -148,8 +148,9 @@ button{
     font-size:14px;
     font-weight: 700;
 }
-button:active{
-    background-color:hsl(226, 46%, 56%)
+button:hover{
+    background-color:hsl(226, 46%, 56%);
+    
 }
 /* button:hover{
     background-color:hsl(226, 46%, 56%)
